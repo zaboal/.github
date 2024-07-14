@@ -1,6 +1,9 @@
 name: grammar or typographical error
-description: "@zaboal is not a native english speaker. text reports are welcome."
+description: "the maintainer is not a native english speaker. reports are welcome."
+title: "[typo]: "
 labels: [typo]
+assignees:
+  - zaboal
 body:
   - type: input
     attributes:
