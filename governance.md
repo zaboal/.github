@@ -1,0 +1,1 @@
+repositories in exception of `zaboal` and `.github` are welocme for contributors.
