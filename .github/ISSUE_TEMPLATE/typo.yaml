@@ -1,0 +1,12 @@
+name: grammar or typographical error
+description: "@zaboal is not a native english speaker. text reports are welcome."
+labels: [typo]
+body:
+  - type: input
+    attributes:
+      label: where's the typo?
+      placeholder: readme
+  - type: textarea
+    attributes:
+      label: how must it be?
+      description: write your version of the sentences and optionally explain them.
